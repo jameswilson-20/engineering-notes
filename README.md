@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Transactional Welcome Email API Alternatives: A Developer Comparison Without SMTP Relay](posts/transactional-welcome-email-api-alternatives-a-developer-comparison-with.md)
 - [Password Reset Email API: Custom Domains, DKIM, SPF, and Token Links](posts/password-reset-email-api-custom-domains-dkim-spf-and-token-links.md)
 - [A Practical SMS OTP API Stack for First-Time US/EU SaaS 2FA](posts/a-practical-sms-otp-api-stack-for-first-time-us-eu-saas-2fa.md)
 - [How to choose an SMS API for critical outage alerts, with status polling and retry](posts/how-to-choose-an-sms-api-for-critical-outage-alerts-with-status-polling.md)
